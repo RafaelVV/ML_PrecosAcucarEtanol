@@ -42,6 +42,7 @@ O objetivo é fornecer previsões precisas e exatas dos preços nacionais do aç
 # **Metodologia de Modelagem**
 A metodologia adotada segue princípios das metodologias Canvas ML, KDD e CRISP-DM.
 ![image](https://github.com/RafaelVV/ML_PrecosAcucarEtanol/assets/10815345/56f5789a-f0c2-4b30-ba06-9f9fb6085c32)
+Diagrama detalhado do protocolo de modelagem (Fonte: adaptado de Amin (2020))
 
 # **Workflow de Modelagem**
 
