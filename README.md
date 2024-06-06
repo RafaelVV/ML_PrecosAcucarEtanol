@@ -68,13 +68,13 @@ Utilização de GridSearchCV com validação cruzada para otimização dos hiper
 
 📌 **Erro Médio Absoluto Percentual (MAPE):**
 
-- Açúcar cristal: 1.4%
-- Etanol hidratado: 1.64%
+- Açúcar cristal: 1,4%
+- Etanol hidratado: 1,64%
 
 📌 **Precisão (R²):**
 
-- Açúcar cristal: 1.00
-- Etanol hidratado: 0.99
+- Açúcar cristal: 1,00
+- Etanol hidratado: 0,99
 
 # **Conclusão**
 
