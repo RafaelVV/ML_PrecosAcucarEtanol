@@ -2,7 +2,7 @@
 
 ## **Autor**
 - ✍️ Rafael Vasconcelos Valadares
-- ✉️ [rafaelvvaladares@hotmail.com]
+- ✉️ rafaelvvaladares@hotmail.com
 
 # **Visão Geral**
 Este projeto visa fornecer previsões precisas e exatas dos preços nacionais do açúcar cristal e do etanol hidratado. As previsões ajudam na tomada de decisão quanto à assinatura de contratos e investimentos.
