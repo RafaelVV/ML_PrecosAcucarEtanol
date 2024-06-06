@@ -1,5 +1,7 @@
 # Projeto de Modelagem dos Preços do Açúcar Cristal e Etanol Hidratado
 
+Autor: Rafael Vasconcelos Valadares, D.Sc.
+
 # Visão Geral
 Este projeto visa fornecer previsões precisas e exatas dos preços nacionais do açúcar cristal e do etanol hidratado. As previsões ajudam na tomada de decisão quanto à assinatura de contratos e investimentos.
 
@@ -44,13 +46,13 @@ Dados de teste (20%)
 
 📌 Modelos de Regressão Utilizados:
 
-Random Forest
-Support Vector Machines
-AdaBoost
-GradientBoost
-XGBoost
-LightGBM
-Redes Neurais Artificiais
+1- Random Forest
+2- Support Vector Machines
+3- AdaBoost
+4- GradientBoost
+5- XGBoost
+6- LightGBM
+7- Redes Neurais Artificiais
 
 # Otimização de Hiperparâmetros:
 
