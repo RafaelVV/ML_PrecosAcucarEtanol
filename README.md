@@ -3,9 +3,9 @@
 ## **Autor**
 - ✍️ Rafael Vasconcelos Valadares
 - ✉️ rafaelvvaladares@hotmail.com
-- [LinkedIn]https://www.linkedin.com/in/rafaelvvaladares/🔗
+- 💬 https://www.linkedin.com/in/rafaelvvaladares/
 
-## **Linguagem**
+## **Linguagem utilizada**
 ![image](https://github.com/RafaelVV/ML_PrecosAcucarEtanol/assets/10815345/2aa7ac57-64d2-4e82-a58f-e08b0f3e1f46)
 
 # **Visão Geral**
