@@ -2,10 +2,7 @@
 
 # **Autor**
 ✍️ Rafael Vasconcelos Valadares
-![image](https://github.com/RafaelVV/ML_PrecosAcucarEtanol/assets/10815345/5541e994-6ff5-4fdd-a443-677a9c85c597)
-
-## Contato
-Para dúvidas ou sugestões, por favor, abra uma issue no repositório ou entre em contato pelo email: ✉️ [rafaelvvaladares@hotmail.com]
+✉️ [rafaelvvaladares@hotmail.com]
 
 # **Visão Geral**
 Este projeto visa fornecer previsões precisas e exatas dos preços nacionais do açúcar cristal e do etanol hidratado. As previsões ajudam na tomada de decisão quanto à assinatura de contratos e investimentos.
